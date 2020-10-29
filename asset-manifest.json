@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-manjeet-arneja/static/css/main.5db1380d.chunk.css",
+    "main.js": "/portfolio-manjeet-arneja/static/js/main.1ceb908d.chunk.js",
+    "main.js.map": "/portfolio-manjeet-arneja/static/js/main.1ceb908d.chunk.js.map",
+    "runtime-main.js": "/portfolio-manjeet-arneja/static/js/runtime-main.1255b648.js",
+    "runtime-main.js.map": "/portfolio-manjeet-arneja/static/js/runtime-main.1255b648.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/portfolio-manjeet-arneja/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.1b6a00f4.chunk.js": "/portfolio-manjeet-arneja/static/js/2.1b6a00f4.chunk.js",
+    "static/js/2.1b6a00f4.chunk.js.map": "/portfolio-manjeet-arneja/static/js/2.1b6a00f4.chunk.js.map",
+    "index.html": "/portfolio-manjeet-arneja/index.html",
+    "precache-manifest.96df5fd403652d116388803160ebf1c1.js": "/portfolio-manjeet-arneja/precache-manifest.96df5fd403652d116388803160ebf1c1.js",
+    "service-worker.js": "/portfolio-manjeet-arneja/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/portfolio-manjeet-arneja/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/portfolio-manjeet-arneja/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.1b6a00f4.chunk.js.LICENSE.txt": "/portfolio-manjeet-arneja/static/js/2.1b6a00f4.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/portfolio-manjeet-arneja/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/portfolio-manjeet-arneja/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1255b648.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.1b6a00f4.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.1ceb908d.chunk.js"
+  ]
+}
